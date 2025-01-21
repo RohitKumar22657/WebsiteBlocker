@@ -6,8 +6,8 @@ This Python project allows you to block and unblock websites by modifying the `h
 - Unblock websites to restore access.
 
 ## How to Use
-1. Run `blocker.py` to block websites.
-2. Run `unblocker.py` to unblock websites.
+1. Run `Website-blocker.py` to block websites.
+2. Run `Website-unblocker.py` to unblock websites.
 
 ## Requirements
 - Python 3.x
